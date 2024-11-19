@@ -1,4 +1,4 @@
-## Ex No: 05  Implementation-of-32Bit-ALU-Synthesis-using-Cadence-EDA-Tools
+## EXP5: Implementation-of-32Bit-ALU-Synthesis-using-Cadence-EDA-Tools
 
 ### Aim:
 
